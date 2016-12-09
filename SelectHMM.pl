@@ -3,7 +3,7 @@ use strict;
 use warnings;
 use diagnostics;
 if(scalar @ARGV !=2){
-	print "\nUsage: perl SelectHMM.pl input.txt output.fa\n\n";
+	print "\nUsage: perl SelectHMM.pl HMMsearchOutput.txt output.fa\n\n";
 	exit;
 }
 unless ( open(E, "<$ARGV[0]") ) {
