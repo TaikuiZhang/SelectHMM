@@ -116,4 +116,4 @@ system("rm -f list.txt");
 system("rm -f $file");
 
 print "\nUse the data obtained by SelectHMM, please cite in your paper:\n";
-print "\nZhang TK, Liu CY, Zhang HY, Yuan ZH: An integrated approach to identify Cytochrome P450 superfamilies in plant species within the Malvids. In: Proceedings of 2017 5th international conference on bioinformatics and computational biology. Hong Kong: ACM; 2017: 11-16.\n\n";
+print "\nZhang TK, Liu CY, Zhang HY, Yuan ZH (2017).An integrated approach to identify Cytochrome P450 superfamilies in plant species within the Malvids. In: Proceedings of 2017 5th international conference on bioinformatics and computational biology. Zhang D edz. New York: ACM. Pp.11-16.\n\n";
