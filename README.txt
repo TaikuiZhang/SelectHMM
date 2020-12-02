@@ -7,4 +7,4 @@ Input file should be Genome-Protein with fasta format.
 HMMfile is a HMM model built by programe HMMbuild.
 
 If you use the data obtained by SelectHMM, please cite in your paper: "Zhang TK, Liu CY, Zhang HY, Yuan ZH (2017).An integrated approach to identify Cytochrome P450 superfamilies in plant species within the Malvids. In: Proceedings of 2017 5th international conference on bioinformatics and computational biology. Zhang D eds. New York: ACM. Pp.11-16.". URL: http://dl.acm.org/citation.cfm?doid=3035012.3035021 
-Any question about SelectHMM, can contact me through the email (taikuizhang@126.com).
+Any question about SelectHMM, can contact me through the email (taikuizhang@hotmail.com).
